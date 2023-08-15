@@ -1,1 +1,1 @@
-# ciencia-comp
+# ciencia_comp
